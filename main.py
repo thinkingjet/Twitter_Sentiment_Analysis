@@ -1,9 +1,9 @@
 # Sentiment Analysis performed on twitter tweets.
 
-topic = 'Elon Musk'
+topic = 'Doge'
 tweet_limit = 100
-start_date = "2021-05-26"
-end_date = "2021-05-30"
+start_date = "2021-06-01"
+end_date = "2021-06-07"
 
 
 import tweepy
@@ -13,10 +13,10 @@ import matplotlib.pyplot as plt
 import re
 from tkinter import *
 
-api_key = "API_KEY_GOES_HERE"
-api_key_secret = "API_KEY_SECRET_GOES_HERE"
-access_token = "ACCESS_TOKEN_GOES_HERE"
-access_token_secret = "ACCESS_TOKEN_SECRET_GOES_HERE"
+api_key = "aPkDQtdtw3UynEDBoxQY4DXL8"
+api_key_secret = "m68ktwWnrFVxIyHwOiAr1Fl3Bze3g1XRBqMeOpwynzOSXFtxFt"
+access_token = "1007964620164759552-cqJ6IQ3zO0wBCEjiNwwmpkwFN9SHrR"
+access_token_secret = "ZMb1eP2pMukZcgdttCWV8qoFzxayaXmN5PFDYysbxJIpL"
 
 authenticator = tweepy.OAuthHandler(api_key, api_key_secret)
 authenticator.set_access_token(access_token, access_token_secret)
