@@ -11,7 +11,6 @@ import textblob
 import pandas as pd
 import matplotlib.pyplot as plt
 import re
-from tkinter import *
 
 api_key = "API_KEY_GOES_HERE"
 api_key_secret = "API_KEY_SECRET_GOES_HERE"
