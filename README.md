@@ -78,6 +78,8 @@ Now go to that channel, and paste in your code. We will review it throughout the
 You have exactly 1 week from now, till 10 am UTC, Thursday 12th August
 Good Luck!:Likee:
 
-PS: Final Code Right Here: https://bit.ly/challenge_final_code
 <img src=https://cdn.discordapp.com/attachments/862330721413890078/872780733624750090/unknown.png></img>
+
+PS: Final Code Right Here: https://bit.ly/challenge_final_code
+
 
