@@ -64,3 +64,20 @@ access_token_secret = "WIivnWduK1dLCWKohGoYrDv5nSqanwRLgGrxMjM6DPucj"
 7) The final step! Now that you've done the above, the last part is easy. Simply use the `matplotlib.pyplot` module to plot a bar graph which plots the data based on positivity vs negativity. The final output is attached, and yours should look similar to it. This one which gets the **top 100 tweets about bitcoin** between the dates `2021-08-03 and 2021-08-08`.
 
 8) Step 8?! NO, that's it the comp's done. To submit your code, follow the steps below:
+
+
+## Submission
+To submit your code, do the following:
+In #bot-commands , type the following:
+?ticket create <your_name> where <your_name> is to be replaced by your actual name. 
+
+After you do that, you will see that a new channel pops up for you just above the COMMUNITY category, it appears in a new categor called Competition Submissions. It should look similar to the attached screenshot. 
+
+Now go to that channel, and paste in your code. We will review it throughout the week, and after one week you'll be informed if you're a winner!
+
+You have exactly 1 week from now, till 10 am UTC, Thursday 12th August
+
+Good Luck!:Likee:
+
+
+PS: Final Code Right Here: https://bit.ly/challenge_final_code
