@@ -79,5 +79,5 @@ You have exactly 1 week from now, till 10 am UTC, Thursday 12th August
 Good Luck!:Likee:
 
 PS: Final Code Right Here: https://bit.ly/challenge_final_code
-https://cdn.discordapp.com/attachments/862330721413890078/872780733624750090/unknown.png
+<img src=https://cdn.discordapp.com/attachments/862330721413890078/872780733624750090/unknown.png></img>
 
