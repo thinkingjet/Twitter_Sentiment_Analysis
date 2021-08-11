@@ -76,8 +76,8 @@ After you do that, you will see that a new channel pops up for you just above th
 Now go to that channel, and paste in your code. We will review it throughout the week, and after one week you'll be informed if you're a winner!
 
 You have exactly 1 week from now, till 10 am UTC, Thursday 12th August
-
 Good Luck!:Likee:
 
-
 PS: Final Code Right Here: https://bit.ly/challenge_final_code
+https://cdn.discordapp.com/attachments/862330721413890078/872780733624750090/unknown.png
+
