@@ -1,3 +1,10 @@
+"""
+1st PLACE!!!
+
+CONGRATULATIONS TO AK26#5915
+"""
+
+
 import tweepy
 import pandas as pd
 import textblob
