@@ -4,7 +4,6 @@
 CONGRATULATIONS TO hashcat.hccapx#8169
 """
 
-
 import tweepy
 import textblob
 import pandas as pd
